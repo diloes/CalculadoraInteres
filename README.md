@@ -1,3 +1,10 @@
+# Sobre el Proyecto
+Este proyecto consiste en una calculadora de interés compuesto, para realizarla he usado React con:
+ - Styled-components
+ - Formik
+ - Yup
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
